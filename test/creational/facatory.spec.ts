@@ -1,6 +1,6 @@
 import { bmwFactory } from '../../src/creational/factory/factory';
 
-describe('factory test', () => {
+describe('Factory test', () => {
 	it('sanity', () => {
 		const x5 = bmwFactory('X5');
 		const x6 = bmwFactory('X6');
