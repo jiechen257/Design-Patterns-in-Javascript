@@ -1,4 +1,4 @@
-import { bmwFactory } from '../../src/creational/factory/factory';
+import { bmwFactory } from '../../../src/creational/factory/factory';
 
 describe('Factory test', () => {
 	it('sanity', () => {
